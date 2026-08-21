@@ -1,0 +1,11 @@
+CODIGO_INEI,UNIVERSIDAD,GESTION,DEPARTAMENTO,CODIGO_PROGRAMA,PROGRAMA,NIVEL_ACADEMICO,ANIO,CODIGO_SIU_FILIAL,CANTIDAD
+100,Universidad Catolica San Pablo,Privada,Arequipa,01,Ingenieria de Sistemas,Carrera Profesional,2023,1,260
+100,Universidad Catolica San Pablo,Privada,Arequipa,02,Derecho,Carrera Profesional,2023,1,180
+100,Universidad Catolica San Pablo,Privada,Arequipa,01,Ingenieria de Sistemas,Carrera Profesional,2024,1,300
+100,Universidad Catolica San Pablo,Privada,Arequipa,02,Derecho,Carrera Profesional,2024,1,175
+200,Universidad Nacional de San Agustin,Publica,Arequipa,01,Ingenieria de Sistemas,Carrera Profesional,2023,1,900
+200,Universidad Nacional de San Agustin,Publica,Arequipa,03,Medicina Humana,Carrera Profesional,2023,1,2100
+200,Universidad Nacional de San Agustin,Publica,Arequipa,01,Ingenieria de Sistemas,Carrera Profesional,2024,1,940
+200,Universidad Nacional de San Agustin,Publica,Arequipa,03,Medicina Humana,Carrera Profesional,2024,2,2200
+300,Pontificia Universidad Catolica del Peru,Privada,Lima,01,Ingenieria de Sistemas,Carrera Profesional,2023,1,1500
+300,Pontificia Universidad Catolica del Peru,Privada,Lima,02,Derecho,Carrera Profesional,2024,1,1400

@@ -1,0 +1,11 @@
+CODIGO_INEI,UNIVERSIDAD,GESTION,DEPARTAMENTO,CODIGO_PROGRAMA,PROGRAMA,NIVEL_ACADEMICO,ANIO,LOCAL_CODIGO,CANTIDAD
+100,Universidad Catolica San Pablo,Privada,Arequipa,01,Ingenieria de Sistemas,Carrera Profesional,2023,100-AQP-01,540
+100,Universidad Catolica San Pablo,Privada,Arequipa,02,Derecho,Carrera Profesional,2023,100-AQP-01,430
+100,Universidad Catolica San Pablo,Privada,Arequipa,01,Ingenieria de Sistemas,Carrera Profesional,2024,100-AQP-01,560
+100,Universidad Catolica San Pablo,Privada,Arequipa,02,Derecho,Carrera Profesional,2024,100-AQP-02,410
+200,Universidad Nacional de San Agustin,Publica,Arequipa,01,Ingenieria de Sistemas,Carrera Profesional,2023,200-AQP-01,980
+200,Universidad Nacional de San Agustin,Publica,Arequipa,03,Medicina Humana,Carrera Profesional,2023,200-AQP-03,720
+200,Universidad Nacional de San Agustin,Publica,Arequipa,01,Ingenieria de Sistemas,Carrera Profesional,2024,200-AQP-01,1010
+200,Universidad Nacional de San Agustin,Publica,Arequipa,03,Medicina Humana,Carrera Profesional,2024,200-AQP-03,760
+300,Pontificia Universidad Catolica del Peru,Privada,Lima,01,Ingenieria de Sistemas,Carrera Profesional,2023,300-LIM-01,1400
+300,Pontificia Universidad Catolica del Peru,Privada,Lima,02,Derecho,Carrera Profesional,2024,300-LIM-02,1320
