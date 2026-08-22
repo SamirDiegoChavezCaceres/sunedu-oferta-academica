@@ -1,5 +1,7 @@
 # sunedu-oferta-academica
 
+[![CI](https://github.com/SamirDiegoChavezCaceres/sunedu-oferta-academica/actions/workflows/ci.yml/badge.svg)](https://github.com/SamirDiegoChavezCaceres/sunedu-oferta-academica/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Working with Peru's public higher-education data (SUNEDU / SIU, published at
 tuni.pe): a **quota-aware client** for the public data API, and a **polars
 pipeline** that turns the microdata into a small star model with validations
