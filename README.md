@@ -77,6 +77,14 @@ pytest
 Covers the quota refusal, pagination, the pregrado filter, the surrogate-key
 uniqueness, and that validation raises on an orphaned fact row.
 
+## Limitations and next steps
+
+- The bundled sample is synthetic; real runs need the SUNEDU download (see
+  [`data/`](data/)).
+- The star model keeps some attributes denormalized on the fact tables, and
+  `Dim_Tiempo` has year grain only.
+- Next: cast real column types in the parquet output and add a semester grain.
+
 ## License
 
 MIT.
