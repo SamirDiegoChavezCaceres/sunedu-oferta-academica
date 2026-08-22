@@ -10,6 +10,12 @@ that fail loud.
 The data is public. The code here is written from scratch; the sample dataset
 is synthetic (real universities, invented numbers) so everything runs offline.
 
+## Demo
+
+![demo](assets/demo.gif)
+
+Generate it with [VHS](https://github.com/charmbracelet/vhs): `vhs demo.tape`.
+
 ## The useful lesson: know when the API is the wrong tool
 
 The portal's API exposes each dataset through one `POST` search endpoint whose
