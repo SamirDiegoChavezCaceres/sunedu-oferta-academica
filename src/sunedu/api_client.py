@@ -9,7 +9,7 @@ That quota is the reason this client exists in this shape. Some tables are far
 too large to pull page-by-page within quota, so instead of silently burning the
 budget the client estimates the cost up front and refuses (``QuotaExceeded``)
 when a full pull would not fit, pointing you to the bulk microdata download
-instead. Knowing when *not* to use the API is the useful part.
+instead. Knowing when *not* to use the API matters as much as using it.
 """
 
 from __future__ import annotations

@@ -5,7 +5,7 @@
 
 The dry run needs no network: it shows why a 4.1M-row table (the size of the
 national "postulantes" dataset) cannot be pulled through a 1000-request monthly
-quota, and that the honest answer is the bulk microdata download.
+quota, and that the right move is the bulk microdata download.
 """
 
 from __future__ import annotations
