@@ -14,6 +14,14 @@ is synthetic (real universities, invented numbers) so everything runs offline.
 
 ![demo](assets/demo.gif)
 
+The demo (`scripts/demo.py`) runs on the small bundled tables in `sample_data/`
+(no network needed). It shows (1) the quota insight: estimating how many requests
+the public API would need for a single institution (5k rows) versus the national
+postulantes table (4.1M rows) against the 1000 requests/month limit, and when to
+switch to the bulk microdata download instead, (2) building the polars star model
+with validations that fail loud (reporting orphan rates across the fact tables),
+and (3) a result computed on the model: admission rate per university.
+
 Generate it with [VHS](https://github.com/charmbracelet/vhs): `vhs demo.tape`.
 
 ## The useful lesson: know when the API is the wrong tool
